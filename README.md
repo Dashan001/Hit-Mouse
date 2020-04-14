@@ -3,4 +3,4 @@
 index.html为入口文件。<br>
 游戏效果如下：<br>
 
-![狂拍灰太狼](https://github.com/Dashan001/Hit-Mouse/blob/master/hit-mouse.gif)
+<img src='https://github.com/Dashan001/Hit-Mouse/blob/master/hit-mouse.gif' width='400' height='400' alt='狂拍灰太狼'/> 
